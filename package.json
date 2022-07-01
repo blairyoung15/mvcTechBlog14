@@ -1,0 +1,23 @@
+{
+  "name": "mvctechblog14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blairyoung15/mvcTechBlog14.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blairyoung15/mvcTechBlog14/issues"
+  },
+  "homepage": "https://github.com/blairyoung15/mvcTechBlog14#readme",
+  "dependencies": {
+    "express-handlebars": "^6.0.6"
+  }
+}
